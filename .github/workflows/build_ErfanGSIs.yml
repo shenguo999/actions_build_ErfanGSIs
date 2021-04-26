@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://hugeota.d.miui.com/21.2.1/miui_LAURUS_21.2.1_5ea56a3f6b_10.0.zip
+  ROM_URL: https://ip1029618493.out.azhimalayanvh.com/Firmware/Flyme/16th/9.21.4.24/cn_daily/20210424183733/9c0cb420/update.zip?ali_redirect_domain=download.meizu.com&ali_redirect_ex_ftag=ba57c4c34b52257d0b5624bed68a63daa8ea9f5945ad92de&ali_redirect_ex_tmining_ts=1619440117&ali_redirect_ex_tmining_expire=3600&ali_redirect_ex_hot=100
   ROM_NAME: Flyme
   TZ: Asia/Shanghai
 
